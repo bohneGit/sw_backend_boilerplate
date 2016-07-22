@@ -4,7 +4,7 @@ class Shopware_Plugins_Backend_BackendBoilerplate_Bootstrap extends Shopware_Com
 	public function getInfo()
 	{
 		return array(
-				'label' => 'Backend Boilerplate';
+				'label' => 'Backend Boilerplate'
 		);
 	}
 	
